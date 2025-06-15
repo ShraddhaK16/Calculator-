@@ -1,2 +1,2 @@
 # Calculator-
-Calculator Project using html,css,javascript
+Calculator Project using html,css,javascript.
